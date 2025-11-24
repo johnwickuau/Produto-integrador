@@ -1,0 +1,22 @@
+{
+  "name": "produto-integrador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwickuau/Produto-integrador.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwickuau/Produto-integrador/issues"
+  },
+  "homepage": "https://github.com/johnwickuau/Produto-integrador#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
