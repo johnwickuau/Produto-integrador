@@ -1,0 +1,53 @@
+{
+    "nome_praca": "Praça Central",
+    "pontos_bicicleta": [
+        {
+            "id": 1,
+            "localizacao": "A",
+            "bicicleta": [
+                { "id": 1, "tipo": "eletrica", "valor": 2.0 },
+                { "id": 2, "tipo": "manual", "valor": 1.0 },
+                { "id": 3, "tipo": "eletrica", "valor": 2.0 },
+                { "id": 4, "tipo": "manual", "valor": 1.0 }
+            ]
+        },
+        {
+            "id": 2,
+            "localizacao": "B",
+            "bicicleta": [
+                { "id": 1, "tipo": "eletrica", "valor": 2.0 },
+                { "id": 2, "tipo": "manual", "valor": 1.0 },
+                { "id": 3, "tipo": "eletrica", "valor": 2.0 },
+                { "id": 4, "tipo": "manual", "valor": 1.0 }
+            ]
+        },
+        {
+            "id": 3,
+            "localizacao": "C",
+            "bicicleta": [
+                { "id": 1, "tipo": "eletrica", "valor": 2.0 },
+                { "id": 2, "tipo": "manual", "valor": 1.0 },
+                { "id": 3, "tipo": "eletrica", "valor": 2.0 },
+                { "id": 4, "tipo": "manual", "valor": 1.0 }
+            ]
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "João Biston"
+             },
+             {
+            "id" : "gui"
+            },
+        {
+            "id_usuario": 1,
+            "id_bicicleta": 1,
+            "id_partida": 1,
+            "id_chegada": 2,
+            "inicio": "24/11/2025 14:00",
+            "duracao": "00:04:21"
+        }
+
+    ]
+}
