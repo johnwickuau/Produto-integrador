@@ -1,0 +1,35 @@
+{
+    "Grupos": [
+        {
+          "nome" : "Grupo A",
+          "membros" : ["João", "Maria", "Pedro"],
+          "praca" : "Praca da Liberdade",
+          "materiais" : ["Corda", "Papel", "Caneta"]
+        },
+        {
+          "nome" : "Grupo B",
+          "membros" : ["Ana", "Lucas", "Carla"],
+          "praca" : "Praca Central",
+          "materiais" : ["Pedra", "Papel", "Tesoura"]
+        },
+        {
+          "nome" : "Grupo C",
+          "membros" : ["Rafael", "Sofia", "Tiago"],
+          "praca" : "Praca dos Pássaros",
+          "materiais" : ["Cano", "Papel", "Fita Adesiva"]
+        },
+        {
+          "nome" : "Grupo D",
+          "membros" : ["Beatriz", "Felipe", "Camila"],
+          "praca" : "Praca das Flores",
+          "materiais" : ["Isopor", "Arame", "Papel"]
+        },
+        {
+          "nome" : "Grupo E",
+          "membros" : ["Gabriel", "Isabela", "Marcos"],
+          "praca" : "Praca do Sol",
+          "materiais" : ["Arame", "Cobre", "Papel"]
+        }
+
+    ]
+}

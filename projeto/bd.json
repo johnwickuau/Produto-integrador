@@ -1,0 +1,103 @@
+{
+    "nome_praça": "pracinha do japa",
+    "pontos_bicicleta": [
+        {
+            "id": 1,
+            "local": "A",
+            "bicicletas": [
+                {
+                    "id": 1,
+                    "tipo": "eletrica",
+                    "valor": 2
+                },
+                {
+                    "id": 2,
+                    "tipo": "manual",
+                    "valor": 2
+                },
+                {
+                    "id": 3,
+                    "tipo": "eletrica",
+                    "valor": 2
+                },
+                {
+                    "id": 4,
+                    "tipo": "manuel",
+                    "valor": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "local": "B",
+            "bicicletas": [
+                {
+                    "id": 5,
+                    "tipo": "eletrica",
+                    "valor": 2
+                },
+                {
+                    "id": 6,
+                    "tipo": "manual",
+                    "valor": 2
+                },
+                {
+                    "id": 7,
+                    "tipo": "eletrica",
+                    "valor": 2
+                },
+                {
+                    "id": 8,
+                    "tipo": "manuel",
+                    "valor": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "local": "C",
+            "bicicletas": [
+                {
+                    "id": 9,
+                    "tipo": "eletrica",
+                    "valor": 2
+                },
+                {
+                    "id": 10,
+                    "tipo": "manual",
+                    "valor": 2
+                },
+                {
+                    "id": 11,
+                    "tipo": "eletrica",
+                    "valor": 2
+                },
+                {
+                    "id": 12,
+                    "tipo": "manuel",
+                    "valor": 2
+                }
+            ]
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Garcia"
+        },
+        {
+            "id": 2,
+            "nome": "Isabela"
+        }
+    ],
+    "corridas": [
+        {
+            "id_usuario": 1,
+            "id_bicicleta": 1,
+            "id_ponto_partida": 1,
+            "id_ponto_chegada": 2,
+            "inicio": "24/11/2025 15:35:09",
+            "duração": "00:04:21"
+        }
+    ]
+}
